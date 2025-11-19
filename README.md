@@ -2,6 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2511.11831-b31b1b?style=flat&logo=arxiv)](https://arxiv.org/abs/2511.11831)
 [![Dataset](https://img.shields.io/badge/Hugging_Face-Dataset-yellow?flat&logo=huggingface)](https://huggingface.co/datasets/Wenhao-Zhou/TopoPerception)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Wenhao-Zhou/TopoPerception)
 
 This repository contains the data and code for the paper "[TopoPerception: A Shortcut-Free Evaluation of Global Visual Perception in Large Vision-Language Models](https://arxiv.org/abs/2511.11831)".
 
